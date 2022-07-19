@@ -1,0 +1,23 @@
+.gede{
+    text-align: center;
+    width: auto;
+    border: 2px solid;
+    height: auto;
+    padding: 20%;
+    background-image:url("kota.jpg");
+    background-color: white;
+    
+}
+.kecil{
+    border: 2px solid white;
+    width: auto;
+    border-radius: 15px;
+    text-decoration-color: aliceblue;
+    background-color: pink;
+
+
+}
+
+body{
+    background-color: palevioletred;
+}
